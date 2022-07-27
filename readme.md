@@ -4,7 +4,7 @@ Available on [Havoc](https://havoc.app)
 
 Please refer [here](https://mtac.app/quasar) for full tweak description
 
-### Tweak Compatability
+### Tweak Compatibility
 
 Quasar may conflict with tweaks that affect the App Switcher. Tweaks like [Gesto](https://repo.dynastic.co/package/gesto13) must be configured when using Quasar's page views, while others like [KillControl](https://repo.ginsu.dev/depiction/web/com.ginsu.killcontrol.html) function as expected. More compatability will come with future updates.
 
