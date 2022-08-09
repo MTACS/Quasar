@@ -2,7 +2,7 @@
 
 ![Quasar](https://github.com/MTACS/Quasar/blob/main/assets/quasar.png)
 
-Available on [Havoc](https://havoc.app)
+Available on [Havoc](https://havoc.app/package/quasar)
 
 Please refer [here](https://mtac.app/quasar) for full tweak description
 
