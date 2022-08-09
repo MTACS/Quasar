@@ -1,5 +1,7 @@
 # Quasar
 
+![Quasar](https://github.com/MTACS/Quasar/blob/main/assets/quasar.png)
+
 Available on [Havoc](https://havoc.app)
 
 Please refer [here](https://mtac.app/quasar) for full tweak description
